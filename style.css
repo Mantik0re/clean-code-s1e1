@@ -5,18 +5,18 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.info__wrapper {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.info__wrapper img {
   width: 100%;
 }
 
-.aaa .more_inf {
+.info__wrapper .info {
   font-family: fantasy, cursive;
 }
 

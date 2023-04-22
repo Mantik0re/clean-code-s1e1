@@ -16,19 +16,19 @@ body {
   width: 100%;
 }
 
-.info__wrapper .info {
+.info__wrapper .more-info {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
 
-.aaa { 
+.info__wrapper { 
   text-align: center;
 }
 
 }
 
-.centered-main-page-element {
+.main-page__element {
   display: block;
   width: 500px;
   margin: 0 auto 0;

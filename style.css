@@ -81,7 +81,7 @@
 
 /* Heading */
 .head-text,
-.text-task[for='new-task'] {
+.text-task[for="new-task"] {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -109,7 +109,7 @@
 }
 
 /* New Task */
-.text-task[for='new-task'] {
+.text-task[for="new-task"] {
   display: block;
   margin: 0 0 20px;
 }
@@ -164,11 +164,11 @@
 }
 
 /* Edit Task */
-.task-section .task .text-task[type=text] {
+.task-section .task .text-task[type="text"] {
   display: none;
 }
 
-.task-section .task.edit-mode .text-task[type=text] {
+.task-section .task.edit-mode .text-task[type="text"] {
   display: inline-block;
   width: 224px;
 }

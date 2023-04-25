@@ -77,7 +77,7 @@ input,button{
 
 /* Heading */
 .head-text,
-.text-task[for='new-task'] {
+.text-task[for="new-task"] {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -105,7 +105,7 @@ input,button{
 }
 
 /* New Task */
-.text-task[for='new-task'] {
+.text-task[for="new-task"] {
   display: block;
   margin: 0 0 20px;
 }
@@ -160,11 +160,11 @@ ul#completed-tasks label {
 }
 
 /* Edit Task */
-.task-section .task .text-task[type=text] {
+.task-section .task .text-task[type="text"] {
   display: none;
 }
 
-.task-section .task.edit-mode .text-task[type=text] {
+.task-section .task.edit-mode .text-task[type="text"] {
   display: inline-block;
   width: 224px;
 }
